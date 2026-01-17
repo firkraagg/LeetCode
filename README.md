@@ -16,6 +16,7 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/firkraagg/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,9 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

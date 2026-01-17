@@ -23,11 +23,13 @@ Collection of my LeetCode problem solutions
 | [0027-remove-element](https://github.com/firkraagg/LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/firkraagg/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/firkraagg/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/firkraagg/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +55,16 @@ Collection of my LeetCode problem solutions
 | ------- |
 | [0118-pascals-triangle](https://github.com/firkraagg/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/firkraagg/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

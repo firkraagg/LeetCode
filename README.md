@@ -30,6 +30,7 @@ Collection of my LeetCode problem solutions
 | [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/firkraagg/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of my LeetCode problem solutions
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |

@@ -39,6 +39,7 @@ Collection of my LeetCode problem solutions
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/firkraagg/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of my LeetCode problem solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/firkraagg/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/firkraagg/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/firkraagg/LeetCode/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/firkraagg/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |

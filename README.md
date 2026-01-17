@@ -21,6 +21,7 @@ Collection of my LeetCode problem solutions
 | [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/firkraagg/LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/firkraagg/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/firkraagg/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,5 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/firkraagg/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/firkraagg/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->

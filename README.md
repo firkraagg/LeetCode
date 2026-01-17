@@ -11,12 +11,14 @@ Collection of my LeetCode problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/firkraagg/LeetCode/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/firkraagg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/firkraagg/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/firkraagg/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |

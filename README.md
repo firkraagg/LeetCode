@@ -19,6 +19,7 @@ Collection of my LeetCode problem solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/firkraagg/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/firkraagg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/firkraagg/LeetCode/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of my LeetCode problem solutions
 | [0771-jewels-and-stones](https://github.com/firkraagg/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/firkraagg/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/firkraagg/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
@@ -108,4 +110,8 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->

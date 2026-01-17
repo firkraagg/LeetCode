@@ -38,6 +38,7 @@ Collection of my LeetCode problem solutions
 | [0002-add-two-numbers](https://github.com/firkraagg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/firkraagg/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +71,12 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

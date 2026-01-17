@@ -20,6 +20,7 @@ Collection of my LeetCode problem solutions
 | [0001-two-sum](https://github.com/firkraagg/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/firkraagg/LeetCode/tree/master/0027-remove-element) |
+| [0118-pascals-triangle](https://github.com/firkraagg/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/firkraagg/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

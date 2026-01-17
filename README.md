@@ -33,6 +33,7 @@ Collection of my LeetCode problem solutions
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/firkraagg/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
+| [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of my LeetCode problem solutions
 | [0917-reverse-only-letters](https://github.com/firkraagg/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/firkraagg/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |

@@ -24,12 +24,14 @@ Collection of my LeetCode problem solutions
 | [0118-pascals-triangle](https://github.com/firkraagg/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/firkraagg/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/firkraagg/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |

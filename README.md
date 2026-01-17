@@ -13,6 +13,7 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/firkraagg/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/firkraagg/LeetCode/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/firkraagg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ Collection of my LeetCode problem solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/firkraagg/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/firkraagg/LeetCode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |

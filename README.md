@@ -25,6 +25,7 @@ Collection of my LeetCode problem solutions
 | [0119-pascals-triangle-ii](https://github.com/firkraagg/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of my LeetCode problem solutions
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Collection of my LeetCode problem solutions
 | [0009-palindrome-number](https://github.com/firkraagg/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +70,7 @@ Collection of my LeetCode problem solutions
 | ------- |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -79,4 +83,12 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -66,6 +66,7 @@ Collection of my LeetCode problem solutions
 | [0520-detect-capital](https://github.com/firkraagg/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/firkraagg/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/firkraagg/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1108-defanging-an-ip-address](https://github.com/firkraagg/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |

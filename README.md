@@ -47,6 +47,7 @@ Collection of my LeetCode problem solutions
 | [0013-roman-to-integer](https://github.com/firkraagg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/firkraagg/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of my LeetCode problem solutions
 | [0125-valid-palindrome](https://github.com/firkraagg/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/firkraagg/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/firkraagg/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/firkraagg/LeetCode/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/firkraagg/LeetCode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |

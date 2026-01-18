@@ -20,6 +20,7 @@ Collection of my LeetCode problem solutions
 | [0876-middle-of-the-linked-list](https://github.com/firkraagg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/firkraagg/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/firkraagg/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of my LeetCode problem solutions
 | [1108-defanging-an-ip-address](https://github.com/firkraagg/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/firkraagg/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |

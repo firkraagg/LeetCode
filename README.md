@@ -18,6 +18,7 @@ Collection of my LeetCode problem solutions
 | [0344-reverse-string](https://github.com/firkraagg/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/firkraagg/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/firkraagg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/firkraagg/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/firkraagg/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -34,6 +35,7 @@ Collection of my LeetCode problem solutions
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/firkraagg/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -93,6 +95,7 @@ Collection of my LeetCode problem solutions
 | [0217-contains-duplicate](https://github.com/firkraagg/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |

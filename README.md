@@ -37,6 +37,7 @@ Collection of my LeetCode problem solutions
 | [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3467-transform-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/firkraagg/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -98,10 +99,12 @@ Collection of my LeetCode problem solutions
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [3467-transform-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/firkraagg/LeetCode/tree/master/0169-majority-element) |
+| [3467-transform-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |

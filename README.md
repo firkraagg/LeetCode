@@ -37,6 +37,7 @@ Collection of my LeetCode problem solutions
 | [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/firkraagg/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Collection of my LeetCode problem solutions
 | [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/firkraagg/LeetCode/tree/master/0415-add-strings) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/firkraagg/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |

@@ -77,6 +77,7 @@ Collection of my LeetCode problem solutions
 | [1108-defanging-an-ip-address](https://github.com/firkraagg/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/firkraagg/LeetCode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/firkraagg/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |

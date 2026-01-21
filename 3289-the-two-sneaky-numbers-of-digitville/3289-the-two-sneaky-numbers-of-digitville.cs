@@ -6,17 +6,15 @@ public class Solution {
         foreach(var num in nums) {
             if (dict.ContainsKey(num)) {
                 dict[num]++;
+                if (dict[num] > 1) {
+                    sneakyNumbers[pos] = num;
+                    pos++;
+                }
+
                 continue;
             }
 
             dict[num] = 1;
-        }
-
-        foreach(var kvp in dict) {
-            if (kvp.Value > 1) {
-                sneakyNumbers[pos] = kvp.Key;
-                pos++;
-            }
         }
 
         return sneakyNumbers;

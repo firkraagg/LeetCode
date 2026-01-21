@@ -9,6 +9,7 @@ public class Solution {
                 if (dict[num] > 1) {
                     sneakyNumbers[pos] = num;
                     pos++;
+                    if (pos > 1) break;
                 }
 
                 continue;

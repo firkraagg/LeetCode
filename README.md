@@ -36,6 +36,7 @@ Collection of my LeetCode problem solutions
 | [0283-move-zeroes](https://github.com/firkraagg/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/firkraagg/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1672-richest-customer-wealth](https://github.com/firkraagg/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2942-find-words-containing-character](https://github.com/firkraagg/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/firkraagg/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/firkraagg/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -131,4 +132,8 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/firkraagg/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/firkraagg/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

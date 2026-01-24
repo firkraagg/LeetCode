@@ -60,6 +60,7 @@ Collection of my LeetCode problem solutions
 | [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/firkraagg/LeetCode/tree/master/0415-add-strings) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/firkraagg/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/firkraagg/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/firkraagg/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/firkraagg/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |

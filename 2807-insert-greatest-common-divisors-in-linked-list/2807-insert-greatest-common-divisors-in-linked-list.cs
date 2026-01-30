@@ -15,17 +15,23 @@ public class Solution {
         ListNode currNode = head;
         ListNode nextNode = head.next;
         while (nextNode != null) {
-            int gcd = currNode.val <= nextNode.val ? currNode.val : nextNode.val;
-            for (int i = gcd; i > 0; i--) {
-                if (currNode.val % i == 0 && nextNode.val % i == 0) {
-                    currNode.next = new ListNode(i, nextNode);
-                    currNode = nextNode;
-                    nextNode = currNode.next;
-                    break;
-                }
-            }
+            int gcd = CalculateGcd(currNode.val, nextNode.val);
+            currNode.next = new ListNode(gcd, nextNode);
+            currNode = nextNode;
+            nextNode = currNode.next;
         }
 
         return head;
+    }
+
+    private int CalculateGcd(int num1, int num2) {
+        int smallerNum = Math.Min(num1, num2);
+        for (int i = smallerNum; i > 0; i--) {
+            if (num1 % i == 0 && num2 % i == 0) {
+                return i;
+            }
+        }
+
+        return 1;
     }
 }

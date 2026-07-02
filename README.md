@@ -7,12 +7,14 @@ Collection of my LeetCode problem solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/firkraagg/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/firkraagg/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/firkraagg/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/firkraagg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/firkraagg/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/firkraagg/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/firkraagg/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/firkraagg/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/firkraagg/LeetCode/tree/master/0283-move-zeroes) |

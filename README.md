@@ -10,6 +10,7 @@ Collection of my LeetCode problem solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/firkraagg/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/firkraagg/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/firkraagg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/firkraagg/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/firkraagg/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ Collection of my LeetCode problem solutions
 | [0258-add-digits](https://github.com/firkraagg/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/firkraagg/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/firkraagg/LeetCode/tree/master/0415-add-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/firkraagg/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/firkraagg/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/firkraagg/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/firkraagg/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
